@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=raduking&count_private=true&theme=default&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raduking&langs_count=5&theme=default)]()
