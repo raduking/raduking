@@ -1,7 +1,5 @@
 ### Hi there 👋
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
+
 <!--
 **raduking/raduking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
