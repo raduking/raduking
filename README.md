@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 -->
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=raduking&count_private=true&theme=default&showicons=true&line_height=20)](https://github.com/raduking)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raduking&langs_count=5&theme=default)]()
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=raduking&" alt="raduking" /></p>
+<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raduking&langs_count=5&theme=default)]() -->
